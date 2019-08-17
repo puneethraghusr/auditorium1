@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>>
 #define MAXSIZE 200
  
 char stack_name[MAXSIZE][MAXSIZE];
